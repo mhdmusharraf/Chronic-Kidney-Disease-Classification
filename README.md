@@ -1,4 +1,4 @@
-# 📊 Classification Assignment
+# 📊 Chronic-Kidney-Disease-Classification
 
 This project focuses on building and evaluating various classification models on a dataset with **399 rows** and **25 columns** using **binary classification** techniques. The objective is to select the best-performing model for deployment.
 
